@@ -19,7 +19,7 @@ I’m passionate about building **clean, secure, and scalable APIs**, applying s
 - **MySQL** · **PostgreSQL** · **MongoDB** · **Tidb**
 
 #### ⚙️ Infrastructure  
-- **Docker** · **Redis** · **Kubernetes (basic)** · **Git** · **CI/CD with gitlab**
+- **Docker** · **Redis** · **Kubernetes (basic)** · **Git** · **CI/CD**
 
 ---
 
