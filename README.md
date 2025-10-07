@@ -28,9 +28,6 @@ I’m passionate about building **clean, secure, and scalable APIs**, applying s
 🔹 [**Carbon Certificates API**](https://github.com/rachelJG/carbon-certificates-api)  
 API built in **Go** for the issuance of **carbon credit certificates**, stored in **IPFS** to ensure traceability and immutability.  
 
-🔹 [**Dynamic Form Manager (Flutter)**](https://github.com/rachelJG/dynamic-form-manager)  
-Flutter module for managing **dynamic forms** with validation and state control.  
-
 ---
 
 ### 📈 Currently  
