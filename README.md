@@ -25,8 +25,8 @@ I’m passionate about building **clean, secure, and scalable APIs**, applying s
 
 ### 🚀 Projects in Development  
 
-🔹 [**Carbon Certificates API**](https://github.com/rachelJG/carbon-certificates-api)  
-API built in **Go** for the issuance of **carbon credit certificates**, stored in **IPFS** to ensure traceability and immutability.  
+🔹 [**Order Management Microservice **](https://github.com/rachelJG/order-management-ms/tree/main)  
+Order Management Service is a Go-based microservice that manages the lifecycle of delivery orders within a logistics platform. It allows registering new orders, querying orders by client or status, and updating their delivery state. 
 
 ---
 
