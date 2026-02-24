@@ -26,7 +26,7 @@ I’m passionate about building **clean, secure, and scalable APIs**, applying s
 ### 🚀 Projects in Development  
 
 🔹 [**Event Notification Service** ](https://github.com/rachelJG/event-notification-service)  
-Event Notification Service is a Go-based microservice that handles real-time event processing and notifications within a distributed system. It consumes events from message queues, processes them according to business rules, and dispatches notifications through multiple channels to keep users and systems informed of important updates.
+Event Notification Service is a Go-based a production-ready, high-performance event notification service built in Go with hexagonal architecture. Receives domain events via REST API, persists them in PostgreSQL, and processes them asynchronously through a worker to deliver email notifications.
 
 🔹 [**Order Management Microservice** ](https://github.com/rachelJG/order-management-ms/tree/main)  
 Order Management Service is a Go-based microservice that manages the lifecycle of delivery orders within a logistics platform. It allows registering new orders, querying orders by client or status, and updating their delivery state. 
