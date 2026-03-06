@@ -26,6 +26,7 @@ I’m passionate about building **clean, secure, and scalable APIs**, applying s
 ### 🚀 Projects in Development  
 
 🔹 [**Event Notification Service** ](https://github.com/rachelJG/event-notification-service)  
+
 Event Notification Service is a Go-based a production-ready, high-performance event notification service built in Go with hexagonal architecture. Receives domain events via REST API, persists them in PostgreSQL, and processes them asynchronously through a worker to deliver email notifications.
 ---
 
